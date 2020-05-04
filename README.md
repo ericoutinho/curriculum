@@ -1,2 +1,3 @@
-# curriculum
-Currículo pessoal de Eric Coutinho
+# Curriculum
+## Currículo pessoal de Eric Coutinho
+Informações de contato, últimos jobs realizados, skills, bio, etc...
